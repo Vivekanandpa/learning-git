@@ -1,3 +1,3 @@
 a=10
 b=2
-print(a/b)
+print("the division will be",a/b)
